@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.29",
+  "option_operagx_next_version": "1.0.0.30",
+  "option_operagx_game_name": "Flora Bleach",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "79deb8be-bfd7-4029-8eb0-fdf217397950",
+  "option_operagx_team_name": "hakdeejay studio",
+  "option_operagx_team_id": "56ac05e2-e5fa-4585-ace3-26a83a71527c",
+  "option_operagx_editUrl": "https://create.gx.games/game/79deb8be-bfd7-4029-8eb0-fdf217397950/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
