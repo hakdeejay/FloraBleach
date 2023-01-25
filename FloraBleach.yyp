@@ -53,6 +53,7 @@
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":3,},
     {"id":{"name":"oEnemyBullet","path":"objects/oEnemyBullet/oEnemyBullet.yy",},"order":1,},
     {"id":{"name":"sPinkFlower","path":"sprites/sPinkFlower/sPinkFlower.yy",},"order":2,},
+    {"id":{"name":"SelfPlayManager","path":"objects/SelfPlayManager/SelfPlayManager.yy",},"order":8,},
     {"id":{"name":"oBucket","path":"objects/oBucket/oBucket.yy",},"order":0,},
     {"id":{"name":"sBucket","path":"sprites/sBucket/sBucket.yy",},"order":0,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
